@@ -85,13 +85,6 @@
 
 ![设计文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220517001031.jpg)
 
-## 5、获取方式
-
-扫描下方，回复 “ **图书馆8**” ，获取完整版的项目代码。
-
-![image-20220509000010316](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
-
 
 
 
